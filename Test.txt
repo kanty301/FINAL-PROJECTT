@@ -1,2 +1,0 @@
-Edit code form master to origin GitHub
-Edit code form origin to master;
